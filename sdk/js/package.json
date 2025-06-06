@@ -66,7 +66,7 @@
     "typechain": "^5.0.0",
     "typedoc": "0.21.10",
     "typescript": "^4.3.5",
-    "web3": "^1.6.1"
+    "web3": "^4.16.0"
   },
   "dependencies": {
     "@certusone/wormhole-sdk-proto-web": "0.0.7",
@@ -80,7 +80,7 @@
     "@xpla/xpla.js": "^0.2.1",
     "algosdk": "^2.4.0",
     "aptos": "1.5.0",
-    "axios": "^0.24.0",
+    "axios": "^0.30.0",
     "bech32": "^2.0.0",
     "binary-parser": "^2.2.1",
     "bs58": "^4.0.1",
