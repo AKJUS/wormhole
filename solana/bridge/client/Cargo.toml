@@ -6,7 +6,7 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.40"
-borsh = "=0.9.3"
+borsh = "=1.5.7"
 clap = "2.33.0"
 cpi-poster = { path = "../cpi_poster", features = ["no-entrypoint"] }
 hex = "0.4.3"

@@ -19,7 +19,7 @@ default = []
 
 [dependencies]
 wormhole-bridge-solana = { path = "../../../bridge/program", features = ["no-entrypoint", "cpi"] }
-borsh = "=0.9.3"
+borsh = "=1.5.7"
 bstr = "0.2.16"
 byteorder = "1.4.3"
 rocksalt = { path = "../../../solitaire/rocksalt" }

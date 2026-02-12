@@ -16,7 +16,7 @@ no-entrypoint = ["solitaire/no-entrypoint"]
 trace = ["solitaire/trace"]
 
 [dependencies]
-borsh = "=0.9.3"
+borsh = "=1.5.7"
 byteorder = "1.4.3"
 primitive-types = { version = "0.9.0", default-features = false }
 sha3 = "0.9.1"
