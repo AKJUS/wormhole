@@ -15,7 +15,7 @@
     "@improbable-eng/grpc-web-node-http-transport": "^0.15.0",
     "@openzeppelin/contracts": "^4.6.0",
     "big.js": "^5.2.2",
-    "bn.js": "^5.2.0",
+    "bn.js": "^5.2.3",
     "borsh": "^0.4.0",
     "bs58": "^5.0.0",
     "env-cmd": "^10.1.0",
@@ -28,8 +28,8 @@
     "regenerator-runtime": "^0.13.9",
     "ts-node": "^10.8.1",
     "web3": "^1.7.4",
-    "web3-eth-abi": "^1.7.3",
-    "web3-utils": "^1.7.3"
+    "web3-eth-abi": "^4.4.1",
+    "web3-utils": "^4.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
